@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "代码随想录-算法训练营/day07_哈希表_part02/【哈希表】三数之和.md",
+                "file": "代码随想录-算法训练营/day07_哈希表_part02/【哈希表】四数相加 II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "【哈希表】三数之和"
+              "title": "【哈希表】四数相加 II"
             }
           }
         ]
@@ -180,15 +180,14 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
-      "obsidian-git:Open Git source control": false
+      "bases:创建新数据库": false
     }
   },
   "active": "a1a78276fe017888",
   "lastOpenFiles": [
-    "代码随想录-算法训练营/day07_哈希表_part02/【哈希表】四数相加 II.md",
-    "代码随想录-算法训练营/day07_哈希表_part02/【哈希表】赎金信.md",
     "代码随想录-算法训练营/day07_哈希表_part02/【哈希表】三数之和.md",
+    "代码随想录-算法训练营/day07_哈希表_part02/【哈希表】赎金信.md",
+    "代码随想录-算法训练营/day07_哈希表_part02/【哈希表】四数相加 II.md",
     "代码随想录-算法训练营/day07_哈希表_part02/【哈希表】四数之和.md",
     "代码随想录-算法训练营/如何push & 笔记生成prompt.md",
     "代码随想录-算法训练营/day07_哈希表_part02",
