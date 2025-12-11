@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "代码随想录-算法训练营/day08_字符串_part01/【字符串】替换数字.md",
+                "file": "代码随想录-算法训练营/day02_数组_part02/【滑动窗口】长度最小的子数组.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "【字符串】替换数字"
+              "title": "【滑动窗口】长度最小的子数组"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎.md",
+                "file": "代码随想录-算法训练营/day02_数组_part02/【滑动窗口】长度最小的子数组.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "欢迎 的反向链接列表"
+              "title": "【滑动窗口】长度最小的子数组 的反向链接列表"
             }
           },
           {
@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "欢迎 的大纲"
             }
+          },
+          {
+            "id": "1084dbbfde9b1c9a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,14 +190,16 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "a1a78276fe017888",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "代码随想录-算法训练营/day08_字符串_part01/【字符串】替换数字.md",
     "代码随想录-算法训练营/day08_字符串_part01/【字符串】反转字符串 II.md",
     "代码随想录-算法训练营/day08_字符串_part01/【字符串】反转字符串.md",
-    "代码随想录-算法训练营/day08_字符串_part01/【字符串】替换数字.md",
     "代码随想录-算法训练营/day07_哈希表_part02/【排序】【双指针】四数之和.md",
     "代码随想录-算法训练营/day08_字符串_part01",
     "代码随想录-算法训练营/day07_哈希表_part02/【排序】【双指针】三数之和.md",
@@ -217,7 +229,6 @@
     "未命名",
     "代码随想录-算法训练营/day04_链表_part02",
     "代码随想录-算法训练营/day02_数组_part02",
-    "欢迎.md",
     "代码随想录-算法训练营/day01_数组_part01",
     "代码随想录-算法训练营"
   ]
