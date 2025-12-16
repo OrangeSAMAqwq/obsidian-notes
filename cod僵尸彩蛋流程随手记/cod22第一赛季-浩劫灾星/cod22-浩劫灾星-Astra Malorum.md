@@ -60,9 +60,11 @@
 | THE MUSICA UNIVERSALIS | 宇宙音乐    | [ ]  |
 | THE BLACK VEIL         | 黑纱      | [ ]  |
 | THE MOON DIRECTIVE     | 月球指令    | [ ]  |
+|                        |         |      |
 | ASH AND BONE           | 露骨火化    | [ ]  |
 | THE UNKNOWABLE VOID    | 无解虚空    | [ ]  |
 | ECHOES OF ANDROMEDA    | 仙女座回声   | [ ]  |
+|                        |         |      |
 | PYRAMID OF CYDONIA     | 赛东尼亚金字塔 | [ ]  |
 | WITCHLIGHT CODEX       | 巫光耀典    | [ ]  |
 | SILENCE AT SINGULARITY | 奇点寂灭    | [ ]  |
