@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文随手记/具身智能/05_3D_Diffusion_and_Robot_Manipulation/Language-Guided Object-Centric Diffusion Policy.md",
+                "file": "论文随手记/具身智能/概览.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Language-Guided Object-Centric Diffusion Policy"
+              "title": "概览"
             }
           }
         ],
@@ -209,15 +209,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1084dbbfde9b1c9a",
+  "active": "24d3d094635b24fe",
   "lastOpenFiles": [
-    "论文随手记/具身智能/05_3D_Diffusion_and_Robot_Manipulation/3D Diffusion Policy（3D-DP）论文笔记.md",
-    "论文随手记/具身智能/05_3D_Diffusion_and_Robot_Manipulation/Language-Guided Object-Centric Diffusion Policy.md",
-    "论文随手记/具身智能/05_3D_Diffusion_and_Robot_Manipulation/3D Diffuser Actor（3DDA, 2024）论文笔记.md",
-    "论文随手记/具身智能/04_Sequence_Modeling_and_Generative_Policy/Diffusion Policy：Visuomotor Policy Learning via Action Diffusion.md",
-    "论文随手记/具身智能/05_3D_Diffusion_and_Robot_Manipulation",
     "论文随手记/具身智能/04_Sequence_Modeling_and_Generative_Policy/Trajectory Transformer（TT, NeurIPS 2021）— 论文随手记.md",
+    "论文随手记/具身智能/概览.md",
+    "论文随手记/具身智能/04_Sequence_Modeling_and_Generative_Policy/Diffusion Policy：Visuomotor Policy Learning via Action Diffusion.md",
     "论文随手记/具身智能/04_Sequence_Modeling_and_Generative_Policy/Decision Transformer（2021）论文笔记.md",
+    "论文随手记/具身智能/06_Foundation_Robot_Models/RT-2：Vision-Language-Action Transformer.md",
+    "论文随手记/具身智能/06_Foundation_Robot_Models/RT-1：Robotics Transformer 1（Google Robotics, 2022）.md",
+    "论文随手记/具身智能/06_Foundation_Robot_Models/RoboCat（DeepMind, 2023）论文笔记.md",
+    "论文随手记/具身智能/05_3D_Diffusion_and_Robot_Manipulation/Language-Guided Object-Centric Diffusion Policy.md",
+    "论文随手记/具身智能/06_Foundation_Robot_Models",
+    "代码随想录-算法训练营/如何push & 笔记生成prompt.md",
+    "论文随手记/具身智能/05_3D_Diffusion_and_Robot_Manipulation/3D Diffusion Policy（3D-DP）论文笔记.md",
+    "论文随手记/具身智能/05_3D_Diffusion_and_Robot_Manipulation/3D Diffuser Actor（3DDA, 2024）论文笔记.md",
+    "论文随手记/具身智能/05_3D_Diffusion_and_Robot_Manipulation",
     "论文随手记/具身智能/03_Imitation_and_Offline_RL/CQL（Conservative Q-Learning, 2020）— Offline RL 的里程碑.md",
     "论文随手记/具身智能/04_Sequence_Modeling_and_Generative_Policy",
     "论文随手记/具身智能/02世界模型/PlaNet（2019）— 世界模型时代的开端.md",
@@ -225,7 +231,6 @@
     "论文随手记/具身智能/01强化学习/Soft Actor-Critic (SAC, 2018) – Obsidian 论文笔记.md",
     "论文随手记/具身智能/03_Imitation_and_Offline_RL",
     "论文随手记/具身智能/02世界模型",
-    "论文随手记/具身智能/未命名.md",
     "代码随想录-算法训练营/day46_动态规划_part13/【动态规划】最长回文子序列.md",
     "论文随手记/具身智能/01强化学习",
     "论文随手记/具身智能",
@@ -241,12 +246,7 @@
     "代码随想录-算法训练营/day45_动态规划_part12",
     "代码随想录-算法训练营/day62_图论_part11/【图论】【最短路】Floyd算法-任意两点间的最短路径.md",
     "代码随想录-算法训练营/day44_动态规划_part11/【编辑距离】判断子序列.md",
-    "代码随想录-算法训练营/day62_图论_part11",
     "代码随想录-算法训练营/day60_图论_part10/【图论】【最短路】SPFA 最短路径算法（队列优化 Bellman-Ford）.md",
-    "代码随想录-算法训练营/day60_图论_part10/【图论】【最短路】K 次中转内的最短路径（Bellman-Ford 变形版）.md",
-    "代码随想录-算法训练营/day60_图论_part10/【图论】【最短路】Bellman-Ford 最短路径算法（含负环判断）.md",
-    "代码随想录-算法训练营/day59_图论_part09/【图论】【最短路】Dijkstra （堆优化）.md",
-    "代码随想录-算法训练营/day59_图论_part09/【图论】【最短路】Bellman-Ford.md",
     "cod僵尸彩蛋流程随手记/cod22第一赛季-浩劫灾星/图片/c4火力全开.png",
     "cod僵尸彩蛋流程随手记/cod22第一赛季-浩劫灾星/图片/c4一击必杀.png",
     "cod僵尸彩蛋流程随手记/cod22第一赛季-浩劫灾星/图片/阅读清单.png",
