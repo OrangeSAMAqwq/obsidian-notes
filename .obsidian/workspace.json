@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文随手记/具身智能/概览.md",
+                "file": "论文随手记/具身智能/硕士毕设毕设/Flow Matching（FM, 2023）— Obsidian 论文笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "概览"
+              "title": "Flow Matching（FM, 2023）— Obsidian 论文笔记"
             }
           }
         ],
@@ -209,10 +209,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24d3d094635b24fe",
+  "active": "1084dbbfde9b1c9a",
   "lastOpenFiles": [
-    "论文随手记/具身智能/04_Sequence_Modeling_and_Generative_Policy/Trajectory Transformer（TT, NeurIPS 2021）— 论文随手记.md",
+    "论文随手记/具身智能/01强化学习/Soft Actor-Critic (SAC, 2018) – Obsidian 论文笔记.md",
+    "论文随手记/具身智能/硕士毕设毕设/Flow Matching（FM, 2023）— Obsidian 论文笔记.md",
     "论文随手记/具身智能/概览.md",
+    "论文随手记/具身智能/硕士毕设毕设",
+    "论文随手记/具身智能/04_Sequence_Modeling_and_Generative_Policy/Trajectory Transformer（TT, NeurIPS 2021）— 论文随手记.md",
     "论文随手记/具身智能/04_Sequence_Modeling_and_Generative_Policy/Diffusion Policy：Visuomotor Policy Learning via Action Diffusion.md",
     "论文随手记/具身智能/04_Sequence_Modeling_and_Generative_Policy/Decision Transformer（2021）论文笔记.md",
     "论文随手记/具身智能/06_Foundation_Robot_Models/RT-2：Vision-Language-Action Transformer.md",
@@ -228,7 +231,6 @@
     "论文随手记/具身智能/04_Sequence_Modeling_and_Generative_Policy",
     "论文随手记/具身智能/02世界模型/PlaNet（2019）— 世界模型时代的开端.md",
     "论文随手记/具身智能/01强化学习/QT-Opt（2018）— Obsidian 论文笔记.md",
-    "论文随手记/具身智能/01强化学习/Soft Actor-Critic (SAC, 2018) – Obsidian 论文笔记.md",
     "论文随手记/具身智能/03_Imitation_and_Offline_RL",
     "论文随手记/具身智能/02世界模型",
     "代码随想录-算法训练营/day46_动态规划_part13/【动态规划】最长回文子序列.md",
@@ -243,10 +245,8 @@
     "代码随想录-算法训练营/day45_动态规划_part12/【动态规划】不同的子序列.md",
     "代码随想录-算法训练营/day62_图论_part11/【图论】【最短路】A-star 算法.md",
     "代码随想录-算法训练营/day46_动态规划_part13",
-    "代码随想录-算法训练营/day45_动态规划_part12",
     "代码随想录-算法训练营/day62_图论_part11/【图论】【最短路】Floyd算法-任意两点间的最短路径.md",
     "代码随想录-算法训练营/day44_动态规划_part11/【编辑距离】判断子序列.md",
-    "代码随想录-算法训练营/day60_图论_part10/【图论】【最短路】SPFA 最短路径算法（队列优化 Bellman-Ford）.md",
     "cod僵尸彩蛋流程随手记/cod22第一赛季-浩劫灾星/图片/c4火力全开.png",
     "cod僵尸彩蛋流程随手记/cod22第一赛季-浩劫灾星/图片/c4一击必杀.png",
     "cod僵尸彩蛋流程随手记/cod22第一赛季-浩劫灾星/图片/阅读清单.png",
