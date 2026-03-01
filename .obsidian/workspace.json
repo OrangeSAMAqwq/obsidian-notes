@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文随手记/具身智能/01强化学习/Soft Actor-Critic (SAC, 2018) – Obsidian 论文笔记.md",
+                "file": "论文随手记/具身智能/02世界模型/PlaNet（2019）— 世界模型时代的开端.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Soft Actor-Critic (SAC, 2018) – Obsidian 论文笔记"
+              "title": "PlaNet（2019）— 世界模型时代的开端"
+            }
+          },
+          {
+            "id": "24d3d094635b24fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "论文随手记/具身智能/03_Imitation_and_Offline_RL/CQL（Conservative Q-Learning, 2020）— Offline RL 的里程碑.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CQL（Conservative Q-Learning, 2020）— Offline RL 的里程碑"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,10 +209,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1a78276fe017888",
+  "active": "1084dbbfde9b1c9a",
   "lastOpenFiles": [
-    "代码随想录-算法训练营/day46_动态规划_part13/【动态规划】最长回文子序列.md",
+    "论文随手记/具身智能/02世界模型/PlaNet（2019）— 世界模型时代的开端.md",
+    "论文随手记/具身智能/03_Imitation_and_Offline_RL/CQL（Conservative Q-Learning, 2020）— Offline RL 的里程碑.md",
+    "论文随手记/具身智能/03_Imitation_and_Offline_RL",
     "论文随手记/具身智能/01强化学习/Soft Actor-Critic (SAC, 2018) – Obsidian 论文笔记.md",
+    "论文随手记/具身智能/01强化学习/QT-Opt（2018）— Obsidian 论文笔记.md",
+    "论文随手记/具身智能/02世界模型",
+    "论文随手记/具身智能/未命名.md",
+    "代码随想录-算法训练营/day46_动态规划_part13/【动态规划】最长回文子序列.md",
     "论文随手记/具身智能/01强化学习",
     "论文随手记/具身智能",
     "论文随手记/未命名.md",
@@ -222,16 +243,10 @@
     "代码随想录-算法训练营/day59_图论_part09",
     "代码随想录-算法训练营/day58_图论_part08/【图论】【最短路】dijkstra.md",
     "代码随想录-算法训练营/day58_图论_part08/【图论】【拓扑排序】软件构建.md",
-    "代码随想录-算法训练营/day58_图论_part08",
     "代码随想录-算法训练营/day57_图论_part07/【图论】【最小生成树】Prim算法模板.md",
     "代码随想录-算法训练营/day57_图论_part07/【图论】【最小生成树】Kruskal算法模板.md",
-    "代码随想录-算法训练营/day57_图论_part07",
     "代码随想录-算法训练营/day56_图论_part06/【并查集】【图论】有向图的冗余边检测.md",
     "代码随想录-算法训练营/day56_图论_part06/【并查集】【图论】冗余边检测.md",
-    "代码随想录-算法训练营/day55_图论_part05/【并查集】【图论】并查集判断连通性.md",
-    "代码随想录-算法训练营/day53_图论_part04/【图论】岛屿周长.md",
-    "代码随想录-算法训练营/day53_图论_part04/【图论】【DFS】图的连通性判断.md",
-    "代码随想录-算法训练营/day53_图论_part04/【图论】【BFS】单词转换最短路径.md",
     "cod僵尸彩蛋流程随手记/cod22第一赛季-浩劫灾星/图片/c4火力全开.png",
     "cod僵尸彩蛋流程随手记/cod22第一赛季-浩劫灾星/图片/c4一击必杀.png",
     "cod僵尸彩蛋流程随手记/cod22第一赛季-浩劫灾星/图片/阅读清单.png",
